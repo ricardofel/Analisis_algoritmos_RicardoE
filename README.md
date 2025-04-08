@@ -10,4 +10,4 @@
 ---
 
 > [!NOTE]
-> Todo el contenido se encuentra en la carpeta [source](https://github.com/ricardofel/Analisis_algoritmos_RicardoE/source)
+> Todo el contenido se encuentra en la carpeta [source](https://github.com/ricardofel/Analisis_algoritmos_RicardoE/tree/main/source)
