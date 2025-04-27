@@ -1,1 +1,0 @@
-## RESUMEN SEMANA 1
