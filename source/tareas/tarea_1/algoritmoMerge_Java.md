@@ -8,7 +8,7 @@ Ademas de esta documentación, adjunto el enlace del archivo java: [archivo java
 
 
 ## Pseudocodigo
-![ejercicio_pseudocodigo](../recursos/ejercicio1_clase3.png)
+![ejercicio_pseudocodigo](../../recursos/ejercicio1_clase3.png)
 ---
 # Implementación:
 
@@ -117,7 +117,7 @@ Este método se encarga de **fusionar dos subarreglos ordenados** (`L` y `R`) en
 Este método simplemente imprime los elementos del arreglo separados por espacios. Se utiliza antes y después de la ordenación para mostrar el resultado al usuario.
 ---
 ### Imagen de ejecución del codigo:
-![ejecucion_java](../recursos/ejecucionMergeSortJava.png)
+![ejecucion_java](../../recursos/ejecucionMergeSortJava.png)
 ---
 
 ## Conclusión
