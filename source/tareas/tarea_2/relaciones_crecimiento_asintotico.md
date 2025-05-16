@@ -1,3 +1,4 @@
+> AUTOR: Ricardo Espinosa
 # Tarea: Análisis de Notaciones Asintóticas
 
 ## Introducción

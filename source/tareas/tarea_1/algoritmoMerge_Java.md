@@ -1,3 +1,4 @@
+> AUTOR: Ricardo Espinosa
 # Implementación de Merge Sort en Java
 
 ## Introducción

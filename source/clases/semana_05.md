@@ -41,4 +41,4 @@ Y adicionalmente:
 > - `f(n) = 2ⁿ`  
 > - `g(n) = 2^(2n)`
 
-El ejercicio quedo como tarea, y se encuentra en la carpeta: [tarea 2](../tareas/tarea_2/tarea_2.md)
+El ejercicio quedo como tarea, y se encuentra en la carpeta: [tarea 2](../tareas/tarea_2/relaciones_crecimiento_asintotico.md)
