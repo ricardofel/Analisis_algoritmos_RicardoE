@@ -4,7 +4,7 @@
 
 En esta tarea se presenta la **implementación en Java** del algoritmo de ordenamiento **Merge Sort**. Merge Sort es un algoritmo de división y conquista que divide recursivamente el arreglo en mitades, las ordena y luego las combina (merge) para formar un arreglo ordenado.
 
-Ademas de esta documentación, adjunto el enlace del archivo java: [archivo java](/source/tareas/tarea_1/mergeSort.java)
+Ademas de esta documentación, adjunto el enlace del archivo java: [archivo java](../../tareas/tarea_1/mergeSort.java)
 
 
 ## Pseudocodigo

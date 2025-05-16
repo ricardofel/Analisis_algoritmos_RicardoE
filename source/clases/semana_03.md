@@ -11,7 +11,9 @@ En esta clase hicimos la prueba de escritorio a dos algoritmos muy interesantes,
 ---
 ## PRUEBA DE ESCRITORIO
 ![prueba1](../recursos/prueba_mergesort.jpeg)
+> Nota: Este ejercicio quedo como tarea para su implementacion en java, adjunto el enlace correspondiente: [tarea 1](../tareas/tarea_1/algoritmoMerge_Java.md)
 ---
+
 
 ## Ejercicio #2
 ![ejercicio2](../recursos/algoritmo_multiplicarMatrices_clase3.jpeg)
