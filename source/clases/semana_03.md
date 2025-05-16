@@ -10,11 +10,11 @@ En esta clase hicimos la prueba de escritorio a dos algoritmos muy interesantes,
 ![Ejercicio1_clase3](/source/recursos/ejercicio1_clase3.png)
 ---
 ## PRUEBA DE ESCRITORIO
-![Ejercicio1_clase3](/source/recursos/prueba_escritorio_mergesort.jpeg)
+![prueba_ejercicio1_clase3](/source/recursos/prueba_escritorio_mergesort.jpeg)
 ---
 
 ## Ejercicio #2
 ![Ejercicio2_clase3](/source/recursos/algoritmo_multiplicarMatrices_clase3.jpeg)
 ---
 ## PRUEBA DE ESCRITORIO
-![Ejercicio1_clase3](/source/recursos/solucion_multMatrices.jpeg)
+![prueba_ejercicio2_clase3](/source/recursos/solucion_multMatrices.jpeg)
