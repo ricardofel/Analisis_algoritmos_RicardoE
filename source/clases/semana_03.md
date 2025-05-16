@@ -17,4 +17,4 @@ En esta clase hicimos la prueba de escritorio a dos algoritmos muy interesantes,
 ![ejercicio2](../recursos/algoritmo_multiplicarMatrices_clase3.jpeg)
 ---
 ## PRUEBA DE ESCRITORIO
-![Prueba2](../recursos/solucion_multMatrices.jpeg)
+![prueba2](../recursos/solucion_multMatrices.jpeg)
