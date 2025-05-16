@@ -41,7 +41,7 @@ En otras palabras:
 ## Ejercicio de análisis de un algoritmo
 Se realizó un ejercicio práctico en el que se analizó un algoritmo de manera teórica, observando como se comportaba si se aumentaba el tiempo de ejecución:
 
-![Ejercicio clase 1](/source/recursos/ejercicio_clase1.jpeg)
+![Ejercicio clase 1](../recursos/ejercicio_clase1.jpeg)
 
 - **El peor caso**: El caso en el que el algoritmo toma más tiempo, tomando en cuenta todas las entradas posibles.
 - **El caso promedio**: El tiempo de ejecución promedio tomando en cuenta todas las entradas posibles.

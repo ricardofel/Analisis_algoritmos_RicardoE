@@ -7,14 +7,14 @@ En esta clase hicimos la prueba de escritorio a dos algoritmos muy interesantes,
 > A continuacion adjunto las imagenes de los ejercicios:
 
 ## Ejercicio #1
-![Ejercicio1_clase3](../recursos/ejercicio1_clase3.png)
+![Ejercicio1 clase3](../recursos/ejercicio1_clase3.png)
 ---
 ## PRUEBA DE ESCRITORIO
 ![prueba1](../recursos/prueba_mergesort.jpeg)
 ---
 
 ## Ejercicio #2
-![Ejercicio2_clase3](../recursos/algoritmo_multiplicarMatrices_clase3.jpeg)
+![Ejercicio2 clase3](../recursos/algoritmo_multiplicarMatrices_clase3.jpeg)
 ---
 ## PRUEBA DE ESCRITORIO
 ![prueba2](../recursos/solucion_multMatrices.jpeg)
